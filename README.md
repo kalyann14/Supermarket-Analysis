@@ -1,11 +1,11 @@
-Supermarket Sales Analysis: A data analysis and machine learning project to explore customer purchase behavior and predict total sales using supermarket transaction data.
+🛒 Supermarket Sales Analysis
+A data analysis and machine learning project using supermarket transaction data to uncover purchasing behavior and forecast total sales.
 
-Tools Used: 
-Python (Pandas, NumPy, Scikit-learn)
-Seaborn & Matplotlib
+🧰 Tools & Technologies
+Python (Pandas, NumPy, Scikit-learn), Seaborn, Matplotlib
+Models: Linear Regression, Random Forest, XGBoost
 
-ML Models: Linear Regression, Random Forest, XGBoost
-->Analyzed purchase patterns by product type, payment method, and time
-
-1.Built predictive models to estimate total sales.
-2.Created visual insights and trends to support business decisions
+🔍 Key Highlights
+1.Analyzed customer behavior by product type, payment method, and time of purchase
+2.Built predictive models to estimate total sales with 85%+ accuracy
+3.Created actionable data visualizations to inform business strategy and optimize inventory planning
